@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Using ES6 Modules in a WordPress Plugin"
+date: 2023-09-15 12:00:00
+categories: php wordpress javascript
+---
 # Using ES6 Modules in WordPress Plugins
 So you want to split up your Javascript code into multiple files so you aren't
 staring at a 1000-line long file every time you want to make changes. The great
